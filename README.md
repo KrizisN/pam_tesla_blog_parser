@@ -17,7 +17,11 @@ export ACC_PASSWORD={Your account password}
 export CHAT_ID={Your chat id}
 export BOT_TOKEN={Token of bot that you have created}
 ```
-3 ) Run a code
+3 ) Install libraries
+```commandline
+pip install -r requirements.txt
+```
+4 ) Run a code
 ```commandline
 python run.py
 ```
